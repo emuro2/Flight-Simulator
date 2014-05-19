@@ -1,3 +1,6 @@
+This is a flight simulator written in C++ using OpenGL to manipulate matrices in order to 
+translate and rotate the environment to give the feel of a flight simulator.
+
 
 1. Keyboard Controls:
 
